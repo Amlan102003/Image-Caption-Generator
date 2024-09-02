@@ -1,1 +1,1 @@
-This repository contains the trained model (H5 file) for an Image Caption Generator built using deep learning techniques. The model is trained on the Flickr 8k dataset and generates captions for images by learning the relationships between images and text.
+This  contains the trained model (H5 file) for an Image Caption Generator built using deep learning techniques. The model is trained on the Flickr 8k dataset and generates captions for images by learning the relationships between images and text.
